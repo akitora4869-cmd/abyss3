@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    " B ",
+    "B  "
+  ],
+  "key": {
+    "S": {
+      "item": "abyssal_arcanum:corrupted_essence"
+    },
+    "B": {
+      "item": "abyssal_arcanum:elemental_core"
+    }
+  },
+  "result": {
+    "item": "abyssal_arcanum:abyss_wand"
+  }
+}

@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="abyssal_arcanum"
+version="${file.jarVersion}"
+displayName="Abyssal Arcanum"
+description='''Abyssal boss encounter prototype.'''
+[[dependencies.abyssal_arcanum]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.abyssal_arcanum]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

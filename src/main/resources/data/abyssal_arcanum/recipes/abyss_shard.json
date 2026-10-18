@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abyssal_arcanum:corrupted_essence"
+    },
+    {
+      "item": "abyssal_arcanum:elemental_core"
+    },
+    {
+      "item": "abyssal_arcanum:abyss_heart"
+    }
+  ],
+  "result": {
+    "item": "abyssal_arcanum:abyss_shard",
+    "count": 4
+  }
+}

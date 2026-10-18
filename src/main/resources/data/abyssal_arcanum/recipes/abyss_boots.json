@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "abyssal_arcanum:corrupted_essence"
+    }
+  },
+  "result": {
+    "item": "abyssal_arcanum:abyss_boots"
+  }
+}
